@@ -1,6 +1,6 @@
 ## ARSU AI LAB
 
-We research interpretable and robust ML for biological signal processing and medical diagnostics. 
+We research interpretable and robust ML, focusing on bioinformatics and clinical diagnostics. 
 
 :orange_book: More Information about our work is available at the [Lab Blog](arsu-lab.github.io).
 
