@@ -2,9 +2,11 @@
 
 We research interpretable and robust ML for biological signal processing and medical diagnostics. 
 
-More Information about our work available in the [Lab Blog](arsu-lab.github.io). 
-Perspective students are encouraged to read the [Administrative Information Page](https://github.com/Arsu-Lab/Administrative-Info).
-Students are also encouraged to take a look at our [curated list](https://github.com/Arsu-Lab/Administrative-Info/blob/main/papers.md) of papers focusing on Computational Cognitive Neuroscience, Multi-Modal ML, and Pedagogy. 
+:notebook: More Information about our work available in the [Lab Blog](arsu-lab.github.io).
+
+:mag: Perspective students are encouraged to read the [Administrative Information Page](https://github.com/Arsu-Lab/Administrative-Info).
+
+:books: We [curated a list](https://github.com/Arsu-Lab/Administrative-Info/blob/main/papers.md) of papers focusing on Computational Neuroscience, Multi-Modal ML, and Pedagogy. 
 
 <!--
 
