@@ -1,8 +1,8 @@
 ## ARSU AI LAB
 
-We research interpretable and robust ML, focusing on bioinformatics and clinical diagnostics. 
+We research interpretable and robust ML, focusing on wearable AI, bioinformatics, clinical diagnostics, and NeuroAI. 
 
-:orange_book: More Information about our work is available at the [Lab Blog](arsu-lab.github.io).
+:orange_book: More Information about our work is available at the [Lab Blog](https://arsu-lab.github.io).
 
 :mag: Prospective students are encouraged to read the [Administrative Information Page](https://github.com/Arsu-Lab/Administrative-Info).
 
